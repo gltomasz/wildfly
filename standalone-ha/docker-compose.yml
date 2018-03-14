@@ -1,0 +1,22 @@
+version: '3.5'
+services:
+  lb:
+    build:
+      context: lb
+    container_name: lb 
+    image: poc/lb
+    ports:
+    - "80:80"
+    network_mode: "bridge"
+  wf1:
+   build: 
+     context: wildfly
+   image: poc/wf
+   network_mode: "bridge"
+  wf2:
+   build:
+     context: wildfly
+   image: poc/wf
+   network_mode: "bridge"
+
+

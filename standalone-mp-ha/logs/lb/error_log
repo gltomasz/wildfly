@@ -1,0 +1,297 @@
+[Fri Mar 16 09:45:13.858028 2018] [suexec:notice] [pid 10:tid 140395214151680] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 16 09:45:13.870142 2018] [lbmethod_heartbeat:notice] [pid 10:tid 140395214151680] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 09:45:13.870581 2018] [http2:warn] [pid 10:tid 140395214151680] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 09:45:13.871353 2018] [:notice] [pid 10:tid 140395214151680] Advertise initialized for process 10
+[Fri Mar 16 09:45:13.872638 2018] [mpm_event:notice] [pid 10:tid 140395214151680] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 09:45:13.872753 2018] [core:notice] [pid 10:tid 140395214151680] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 09:47:28.108519 2018] [suexec:notice] [pid 12:tid 140206382923776] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 09:47:28.121905 2018] [lbmethod_heartbeat:notice] [pid 12:tid 140206382923776] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 09:47:28.122393 2018] [http2:warn] [pid 12:tid 140206382923776] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 09:47:28.123394 2018] [:notice] [pid 12:tid 140206382923776] Advertise initialized for process 12
+[Fri Mar 16 09:47:28.126074 2018] [mpm_event:notice] [pid 12:tid 140206382923776] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 09:47:28.126725 2018] [core:notice] [pid 12:tid 140206382923776] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 10:09:45.605368 2018] [suexec:notice] [pid 13:tid 139918494015488] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 10:09:45.616888 2018] [lbmethod_heartbeat:notice] [pid 13:tid 139918494015488] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 10:09:45.617391 2018] [http2:warn] [pid 13:tid 139918494015488] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 10:09:45.663994 2018] [:error] [pid 13:tid 139918494015488] (EAI 2)Name or service not known: mod_advertise: ma_group_join apr_sockaddr_info_get($advertise:23364) failed
+[Fri Mar 16 10:09:45.664249 2018] [:error] [pid 13:tid 139918494015488] (EAI 2)Name or service not known: mod_advertise: multicast join failed for $advertise:23364.
+[Fri Mar 16 10:09:45.664522 2018] [:notice] [pid 13:tid 139918494015488] Advertise initialized for process 13
+[Fri Mar 16 10:09:45.670372 2018] [mpm_event:notice] [pid 13:tid 139918494015488] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 10:09:45.673334 2018] [core:notice] [pid 13:tid 139918494015488] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 10:14:14.948389 2018] [suexec:notice] [pid 11:tid 140444068675584] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 10:14:14.959461 2018] [lbmethod_heartbeat:notice] [pid 11:tid 140444068675584] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 10:14:14.959925 2018] [http2:warn] [pid 11:tid 140444068675584] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 10:14:15.006780 2018] [:error] [pid 11:tid 140444068675584] (EAI 2)Name or service not known: mod_advertise: ma_group_join apr_sockaddr_info_get($advertise:23364) failed
+[Fri Mar 16 10:14:15.007129 2018] [:error] [pid 11:tid 140444068675584] (EAI 2)Name or service not known: mod_advertise: multicast join failed for $advertise:23364.
+[Fri Mar 16 10:14:15.007541 2018] [:notice] [pid 11:tid 140444068675584] Advertise initialized for process 11
+[Fri Mar 16 10:14:15.011699 2018] [mpm_event:notice] [pid 11:tid 140444068675584] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 10:14:15.012008 2018] [core:notice] [pid 11:tid 140444068675584] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 10:14:28.662012 2018] [mpm_event:notice] [pid 11:tid 140444068675584] AH00491: caught SIGTERM, shutting down
+[Fri Mar 16 10:41:44.372281 2018] [suexec:notice] [pid 12:tid 139804189966336] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 10:41:44.382820 2018] [lbmethod_heartbeat:notice] [pid 12:tid 139804189966336] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 10:41:44.383262 2018] [http2:warn] [pid 12:tid 139804189966336] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 10:41:44.430002 2018] [:error] [pid 12:tid 139804189966336] (EAI 2)Name or service not known: mod_advertise: ma_group_join apr_sockaddr_info_get($advertise:23364) failed
+[Fri Mar 16 10:41:44.430408 2018] [:error] [pid 12:tid 139804189966336] (EAI 2)Name or service not known: mod_advertise: multicast join failed for $advertise:23364.
+[Fri Mar 16 10:41:44.430752 2018] [:notice] [pid 12:tid 139804189966336] Advertise initialized for process 12
+[Fri Mar 16 10:41:44.434528 2018] [mpm_event:notice] [pid 12:tid 139804189966336] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 10:41:44.434726 2018] [core:notice] [pid 12:tid 139804189966336] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 10:44:52.988949 2018] [suexec:notice] [pid 11:tid 140661440905216] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 10:44:52.998922 2018] [core:warn] [pid 11:tid 140661440905216] AH00111: Config variable ${advertise} is not defined
+[Fri Mar 16 10:44:53.000757 2018] [lbmethod_heartbeat:notice] [pid 11:tid 140661440905216] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 10:44:53.001262 2018] [http2:warn] [pid 11:tid 140661440905216] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 10:44:53.053802 2018] [:error] [pid 11:tid 140661440905216] (EAI 2)Name or service not known: mod_advertise: ma_group_join apr_sockaddr_info_get(${advertise}:23364) failed
+[Fri Mar 16 10:44:53.053899 2018] [:error] [pid 11:tid 140661440905216] (EAI 2)Name or service not known: mod_advertise: multicast join failed for ${advertise}:23364.
+[Fri Mar 16 10:44:53.054023 2018] [:notice] [pid 11:tid 140661440905216] Advertise initialized for process 11
+[Fri Mar 16 10:44:53.055579 2018] [mpm_event:notice] [pid 11:tid 140661440905216] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 10:44:53.055838 2018] [core:notice] [pid 11:tid 140661440905216] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:00:28.674732 2018] [suexec:notice] [pid 11:tid 140603191463936] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:00:28.684951 2018] [core:warn] [pid 11:tid 140603191463936] AH00111: Config variable ${advertise} is not defined
+[Fri Mar 16 11:00:28.686597 2018] [lbmethod_heartbeat:notice] [pid 11:tid 140603191463936] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:00:28.687066 2018] [http2:warn] [pid 11:tid 140603191463936] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:00:28.734367 2018] [:error] [pid 11:tid 140603191463936] (EAI 2)Name or service not known: mod_advertise: ma_group_join apr_sockaddr_info_get(${advertise}:23364) failed
+[Fri Mar 16 11:00:28.734736 2018] [:error] [pid 11:tid 140603191463936] (EAI 2)Name or service not known: mod_advertise: multicast join failed for ${advertise}:23364.
+[Fri Mar 16 11:00:28.735201 2018] [:notice] [pid 11:tid 140603191463936] Advertise initialized for process 11
+[Fri Mar 16 11:00:28.739301 2018] [mpm_event:notice] [pid 11:tid 140603191463936] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:00:28.741541 2018] [core:notice] [pid 11:tid 140603191463936] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:44:43.116497 2018] [suexec:notice] [pid 12:tid 140108734087168] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:44:43.128099 2018] [lbmethod_heartbeat:notice] [pid 12:tid 140108734087168] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:44:43.128790 2018] [http2:warn] [pid 12:tid 140108734087168] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:44:43.130144 2018] [:notice] [pid 12:tid 140108734087168] Advertise initialized for process 12
+[Fri Mar 16 11:44:43.131851 2018] [mpm_event:notice] [pid 12:tid 140108734087168] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:44:43.135625 2018] [core:notice] [pid 12:tid 140108734087168] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:46:05.068619 2018] [suexec:notice] [pid 12:tid 140017016254464] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:46:05.081755 2018] [lbmethod_heartbeat:notice] [pid 12:tid 140017016254464] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:46:05.082240 2018] [http2:warn] [pid 12:tid 140017016254464] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:46:05.083214 2018] [:notice] [pid 12:tid 140017016254464] Advertise initialized for process 12
+[Fri Mar 16 11:46:05.085814 2018] [mpm_event:notice] [pid 12:tid 140017016254464] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:46:05.089633 2018] [core:notice] [pid 12:tid 140017016254464] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:47:01.673199 2018] [suexec:notice] [pid 10:tid 140056888754176] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:47:01.685632 2018] [lbmethod_heartbeat:notice] [pid 10:tid 140056888754176] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:47:01.686201 2018] [http2:warn] [pid 10:tid 140056888754176] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:47:01.689000 2018] [:notice] [pid 10:tid 140056888754176] Advertise initialized for process 10
+[Fri Mar 16 11:47:01.691486 2018] [mpm_event:notice] [pid 10:tid 140056888754176] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:47:01.691635 2018] [core:notice] [pid 10:tid 140056888754176] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:47:45.503239 2018] [suexec:notice] [pid 11:tid 140702494130176] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:47:45.520848 2018] [lbmethod_heartbeat:notice] [pid 11:tid 140702494130176] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:47:45.521323 2018] [http2:warn] [pid 11:tid 140702494130176] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:47:45.522514 2018] [:notice] [pid 11:tid 140702494130176] Advertise initialized for process 11
+[Fri Mar 16 11:47:45.522637 2018] [core:warn] [pid 11:tid 140702494130176] AH00098: pid file /run/httpd/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 16 11:47:45.524503 2018] [mpm_event:notice] [pid 11:tid 140702494130176] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:47:45.524732 2018] [core:notice] [pid 11:tid 140702494130176] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:47:45.680206 2018] [suexec:notice] [pid 10:tid 140161798332416] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:47:45.691395 2018] [lbmethod_heartbeat:notice] [pid 10:tid 140161798332416] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:47:45.691953 2018] [http2:warn] [pid 10:tid 140161798332416] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:47:45.692889 2018] [:notice] [pid 10:tid 140161798332416] Advertise initialized for process 10
+[Fri Mar 16 11:47:45.695251 2018] [mpm_event:notice] [pid 10:tid 140161798332416] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:47:45.695442 2018] [core:notice] [pid 10:tid 140161798332416] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:58:51.149440 2018] [suexec:notice] [pid 11:tid 140263768883200] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:58:51.161611 2018] [lbmethod_heartbeat:notice] [pid 11:tid 140263768883200] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:58:51.162190 2018] [http2:warn] [pid 11:tid 140263768883200] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:58:51.163247 2018] [:notice] [pid 11:tid 140263768883200] Advertise initialized for process 11
+[Fri Mar 16 11:58:51.165754 2018] [mpm_event:notice] [pid 11:tid 140263768883200] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:58:51.165898 2018] [core:notice] [pid 11:tid 140263768883200] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 11:58:51.195680 2018] [suexec:notice] [pid 11:tid 139891908276224] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 11:58:51.208129 2018] [lbmethod_heartbeat:notice] [pid 11:tid 139891908276224] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 11:58:51.208577 2018] [http2:warn] [pid 11:tid 139891908276224] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 11:58:51.209374 2018] [:notice] [pid 11:tid 139891908276224] Advertise initialized for process 11
+[Fri Mar 16 11:58:51.211507 2018] [mpm_event:notice] [pid 11:tid 139891908276224] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 11:58:51.211652 2018] [core:notice] [pid 11:tid 139891908276224] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 12:45:57.298684 2018] [suexec:notice] [pid 11:tid 139712045944832] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 12:45:57.312373 2018] [lbmethod_heartbeat:notice] [pid 11:tid 139712045944832] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 12:45:57.312938 2018] [http2:warn] [pid 11:tid 139712045944832] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 12:45:57.314556 2018] [:notice] [pid 11:tid 139712045944832] Advertise initialized for process 11
+[Fri Mar 16 12:45:57.317040 2018] [mpm_event:notice] [pid 11:tid 139712045944832] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 12:45:57.317182 2018] [core:notice] [pid 11:tid 139712045944832] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 13:38:16.866092 2018] [proxy:error] [pid 15:tid 139711467591424] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:38:16.866267 2018] [proxy:error] [pid 15:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 13:38:21.866133 2018] [proxy:error] [pid 14:tid 139711467591424] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:38:21.866422 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:26.867053 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:26.867353 2018] [proxy:error] [pid 17:tid 139711467591424] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:38:31.867863 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:36.868436 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:41.869095 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:46.869663 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:51.870361 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:38:56.870869 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:01.871405 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:06.871924 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:06.871924 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:11.872602 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:11.872602 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:19.950485 2018] [proxy:error] [pid 14:tid 139711467591424] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:39:19.951005 2018] [proxy:error] [pid 14:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 13:39:21.874252 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:21.874252 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:26.875319 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:31.876223 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:36.876703 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:41.877609 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:46.878353 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:51.879138 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:39:56.880008 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:01.880698 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:06.881779 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:11.882430 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:16.883430 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:24.942124 2018] [proxy:error] [pid 17:tid 139711467591424] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:40:24.942345 2018] [proxy:error] [pid 17:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 13:40:26.884668 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:31.885599 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:36.886802 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:41.887842 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:46.888783 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:51.889645 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:40:56.890659 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:01.891694 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:06.892718 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:11.893420 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:16.894257 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:21.895323 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:29.966293 2018] [proxy:error] [pid 15:tid 139711467591424] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:41:29.966688 2018] [proxy:error] [pid 15:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 13:41:31.951023 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:36.951951 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:41.952885 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:46.953724 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:51.954664 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:41:56.955548 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:01.956434 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:06.957582 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:11.958665 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:16.959446 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:21.960294 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:26.961428 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:35.022189 2018] [proxy:error] [pid 17:tid 139711467591424] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 13:42:35.022382 2018] [proxy:error] [pid 17:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 13:42:36.975145 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:36.975145 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:41.976089 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 13:42:46.976610 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:17.762086 2018] [proxy:error] [pid 231:tid 139711467591424] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 14:05:17.762471 2018] [proxy:error] [pid 231:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 14:05:18.139285 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:23.139905 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:23.148595 2018] [proxy:error] [pid 15:tid 139711467591424] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 14:05:28.140554 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:33.141243 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:38.141857 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:43.142709 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:48.143449 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:53.144157 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:05:58.144861 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:03.145612 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:08.146461 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:13.147116 2018] [proxy:error] [pid 14:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:21.198331 2018] [proxy:error] [pid 14:tid 139711467591424] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 14:06:21.198786 2018] [proxy:error] [pid 14:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 14:06:23.154503 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:28.155264 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:33.156220 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:38.157185 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:43.157873 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:48.158714 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:53.159605 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:06:58.160318 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:03.160998 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:08.161896 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:13.162654 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:18.163314 2018] [proxy:error] [pid 15:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:26.222308 2018] [proxy:error] [pid 15:tid 139711467591424] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 14:07:26.222758 2018] [proxy:error] [pid 15:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 14:07:28.192460 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:33.193420 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:38.194462 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:43.195536 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:48.196271 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:53.197189 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:07:58.198077 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:03.198861 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:08.200127 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:13.200928 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:18.201894 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:23.202979 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:28.204317 2018] [proxy:error] [pid 17:tid 139711467591424] (111)Connection refused: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 14:08:28.204552 2018] [proxy:error] [pid 17:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 14:08:33.205345 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:38.206558 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:43.207676 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:48.208818 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:53.209955 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:08:58.211166 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:03.212209 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:08.212984 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:13.213820 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:18.214411 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:23.215011 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:28.215951 2018] [proxy:error] [pid 17:tid 139711467591424] (111)Connection refused: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Fri Mar 16 14:09:28.216206 2018] [proxy:error] [pid 17:tid 139711467591424] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Fri Mar 16 14:09:33.216870 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:38.217952 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:43.219033 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:48.220093 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:53.221303 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:09:58.222524 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:10:03.223720 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:10:08.224772 2018] [proxy:error] [pid 17:tid 139711467591424] AH00940: ajp: disabled connection for (172.17.0.3)
+[Fri Mar 16 14:34:09.758806 2018] [suexec:notice] [pid 10:tid 140066673680384] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 14:34:09.849145 2018] [lbmethod_heartbeat:notice] [pid 10:tid 140066673680384] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 14:34:09.849673 2018] [http2:warn] [pid 10:tid 140066673680384] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 14:34:09.917897 2018] [:notice] [pid 10:tid 140066673680384] Advertise initialized for process 10
+[Fri Mar 16 14:34:09.923363 2018] [mpm_event:notice] [pid 10:tid 140066673680384] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 14:34:09.928419 2018] [core:notice] [pid 10:tid 140066673680384] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Mar 16 14:34:22.080887 2018] [suexec:notice] [pid 10:tid 139624936366080] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Fri Mar 16 14:34:22.196215 2018] [lbmethod_heartbeat:notice] [pid 10:tid 139624936366080] AH02282: No slotmem from mod_heartmonitor
+[Fri Mar 16 14:34:22.197085 2018] [http2:warn] [pid 10:tid 139624936366080] AH02951: mod_ssl does not seem to be enabled
+[Fri Mar 16 14:34:22.209447 2018] [:notice] [pid 10:tid 139624936366080] Advertise initialized for process 10
+[Fri Mar 16 14:34:22.225400 2018] [mpm_event:notice] [pid 10:tid 139624936366080] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Fri Mar 16 14:34:22.230640 2018] [core:notice] [pid 10:tid 139624936366080] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 17 14:18:06.311962 2018] [suexec:notice] [pid 11:tid 140715139633152] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Mar 17 14:18:06.336924 2018] [core:warn] [pid 11:tid 140715139633152] AH00111: Config variable ${advertise} is not defined
+[Sat Mar 17 14:18:06.338563 2018] [lbmethod_heartbeat:notice] [pid 11:tid 140715139633152] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 17 14:18:06.338973 2018] [http2:warn] [pid 11:tid 140715139633152] AH02951: mod_ssl does not seem to be enabled
+[Sat Mar 17 14:18:06.433051 2018] [:error] [pid 11:tid 140715139633152] (EAI 2)Name or service not known: mod_advertise: ma_group_join apr_sockaddr_info_get(${advertise}:23364) failed
+[Sat Mar 17 14:18:06.433241 2018] [:error] [pid 11:tid 140715139633152] (EAI 2)Name or service not known: mod_advertise: multicast join failed for ${advertise}:23364.
+[Sat Mar 17 14:18:06.433357 2018] [:notice] [pid 11:tid 140715139633152] Advertise initialized for process 11
+[Sat Mar 17 14:18:06.434939 2018] [mpm_event:notice] [pid 11:tid 140715139633152] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Sat Mar 17 14:18:06.437806 2018] [core:notice] [pid 11:tid 140715139633152] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 17 14:20:26.640429 2018] [suexec:notice] [pid 10:tid 140640010518528] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Mar 17 14:20:26.651304 2018] [lbmethod_heartbeat:notice] [pid 10:tid 140640010518528] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 17 14:20:26.651742 2018] [http2:warn] [pid 10:tid 140640010518528] AH02951: mod_ssl does not seem to be enabled
+[Sat Mar 17 14:20:26.652511 2018] [:notice] [pid 10:tid 140640010518528] Advertise initialized for process 10
+[Sat Mar 17 14:20:26.653905 2018] [mpm_event:notice] [pid 10:tid 140640010518528] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Sat Mar 17 14:20:26.654006 2018] [core:notice] [pid 10:tid 140640010518528] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 17 14:38:34.965996 2018] [suexec:notice] [pid 10:tid 140050849439744] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Mar 17 14:38:34.999769 2018] [lbmethod_heartbeat:notice] [pid 10:tid 140050849439744] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 17 14:38:35.000579 2018] [http2:warn] [pid 10:tid 140050849439744] AH02951: mod_ssl does not seem to be enabled
+[Sat Mar 17 14:38:35.001737 2018] [:notice] [pid 10:tid 140050849439744] Advertise initialized for process 10
+[Sat Mar 17 14:38:35.003896 2018] [mpm_event:notice] [pid 10:tid 140050849439744] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Sat Mar 17 14:38:35.004799 2018] [core:notice] [pid 10:tid 140050849439744] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 17 14:38:35.085418 2018] [suexec:notice] [pid 10:tid 139693611388928] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Mar 17 14:38:35.118209 2018] [lbmethod_heartbeat:notice] [pid 10:tid 139693611388928] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 17 14:38:35.118968 2018] [http2:warn] [pid 10:tid 139693611388928] AH02951: mod_ssl does not seem to be enabled
+[Sat Mar 17 14:38:35.122769 2018] [:notice] [pid 10:tid 139693611388928] Advertise initialized for process 10
+[Sat Mar 17 14:38:35.125187 2018] [mpm_event:notice] [pid 10:tid 139693611388928] AH00489: Apache/2.4.29 (Fedora) mod_cluster/1.3.3.Final configured -- resuming normal operations
+[Sat Mar 17 14:38:35.125379 2018] [core:notice] [pid 10:tid 139693611388928] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 17 15:12:09.572259 2018] [proxy:error] [pid 13:tid 139693033035520] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Sat Mar 17 15:12:09.572626 2018] [proxy:error] [pid 13:tid 139693033035520] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Sat Mar 17 15:12:14.572508 2018] [proxy:error] [pid 15:tid 139693033035520] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Sat Mar 17 15:12:14.572796 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:19.573460 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:19.575853 2018] [proxy:error] [pid 14:tid 139692838008576] (70007)The timeout specified has expired: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Sat Mar 17 15:12:24.574303 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:29.574998 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:34.575930 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:39.576983 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:44.578031 2018] [proxy:error] [pid 13:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:49.579207 2018] [proxy:error] [pid 14:tid 139692838008576] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:54.579880 2018] [proxy:error] [pid 13:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:59.580629 2018] [proxy:error] [pid 13:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:12:59.580660 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:13:04.581627 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:13:12.632329 2018] [proxy:error] [pid 14:tid 139692838008576] (113)No route to host: AH00957: ajp: attempt to connect to 172.17.0.3:8009 (172.17.0.3) failed
+[Sat Mar 17 15:13:12.632516 2018] [proxy:error] [pid 14:tid 139692838008576] AH00959: ap_proxy_connect_backend disabling worker for (172.17.0.3) for 60s
+[Sat Mar 17 15:13:14.582876 2018] [proxy:error] [pid 13:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:13:19.583729 2018] [proxy:error] [pid 13:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)
+[Sat Mar 17 15:13:24.584742 2018] [proxy:error] [pid 15:tid 139693033035520] AH00940: ajp: disabled connection for (172.17.0.3)

@@ -1,0 +1,52 @@
+version: '3.5'
+services:
+  lb1:
+    build:
+      context: lb
+    image: poc/mllb
+    ports:
+    - "80:80"
+    network_mode: "bridge"
+    volumes:
+    - ./logs/lb:/var/log/httpd
+    environment:
+    - mltcast_address=224.0.1.100
+  lb2:
+    build:
+      context: lb
+    image: poc/mllb
+    ports:
+    - "81:80"
+    network_mode: "bridge"
+    volumes:
+    - ./logs/lb:/var/log/httpd
+    environment:
+    - mltcast_address=224.0.1.200
+  wf11:
+   build: 
+     context: wildfly
+   image: poc/wf
+   network_mode: "bridge"
+   environment:
+   - mltcast_address=224.0.1.100
+  wf12:
+   build:
+     context: wildfly
+   image: poc/wf
+   network_mode: "bridge"
+   environment:
+   - mltcast_address=224.0.1.100
+  wf21:
+   build: 
+     context: wildfly
+   image: poc/wf
+   network_mode: "bridge"
+   environment:
+   - mltcast_address=224.0.1.200
+  wf22:
+   build: 
+     context: wildfly
+   image: poc/wf
+   network_mode: "bridge"
+   environment:
+   - mltcast_address=224.0.1.200
